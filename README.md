@@ -1,2 +1,16 @@
 # llmops-master
-AI infrastructure engineer standing in a glowing LLM data center, pipelines of light, control panels with model graphs, digital tactical map background, cinematic sci-fi
+# ⚙️ LLMOps Master
+
+Deploying intelligence at scale.  
+From fine-tuning to inference, I control the flow of cognition.
+
+## 🚀 Top Systems
+- **RAGStack** — RAG pipeline starter with evaluation suite
+- **LLMFlow** — visual orchestration of model components
+- **InferWatch** — monitoring + auto-scaling for model endpoints
+
+---
+
+🌐 Website: https://github.com/llmops-master  
+🧭 Explore the [Multiverse of Builders(https://github.com/MasterCaleb254)]
+
